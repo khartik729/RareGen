@@ -1,0 +1,609 @@
+.our-team {
+  background-color: #fffcf7;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.our-team .div {
+  background-color: #fffcf7;
+  height: 3306px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.our-team .overlap {
+  height: 1130px;
+  left: -31px;
+  position: absolute;
+  top: 324px;
+  width: 1471px;
+}
+
+.our-team .rectangle {
+  height: 986px;
+  left: 31px;
+  position: absolute;
+  top: 144px;
+  width: 1440px;
+}
+
+.our-team .viraj-kamath-co {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 715px;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 436px;
+  width: 741px;
+}
+
+.our-team .khartik-uppalapati {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 436px;
+  width: 741px;
+}
+
+.our-team .viraj-kamath-is-a {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 741px;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 571px;
+  width: 623px;
+}
+
+.our-team .text-wrapper {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 68px;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 571px;
+  width: 623px;
+}
+
+.our-team .fullsizerender {
+  height: 405px;
+  left: 880px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 412px;
+}
+
+.our-team .image {
+  height: 412px;
+  left: 151px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 412px;
+}
+
+.our-team .overlap-group {
+  height: 336px;
+  left: -29px;
+  position: absolute;
+  top: 2214px;
+  width: 1440px;
+}
+
+.our-team .overlap-2 {
+  height: 326px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.our-team .daniel-kang-is-a {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 808px;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  width: 578px;
+}
+
+.our-team .p {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 741px;
+}
+
+.our-team .text-wrapper-2 {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 699px;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 741px;
+}
+
+.our-team .sahil-sood-is-a {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 98px;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 78px;
+  width: 517px;
+}
+
+.our-team .text-wrapper-3 {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 96px;
+  font-weight: 700;
+  left: 120px;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 148px;
+  white-space: nowrap;
+  width: 1127px;
+}
+
+.our-team .text-wrapper-4 {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 96px;
+  font-weight: 700;
+  left: 132px;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1605px;
+  white-space: nowrap;
+  width: 1127px;
+}
+
+.our-team .text-wrapper-5 {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 96px;
+  font-weight: 700;
+  left: 106px;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2606px;
+  white-space: nowrap;
+  width: 1127px;
+}
+
+.our-team .text-wrapper-6 {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 31px;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2821px;
+  width: 372px;
+}
+
+.our-team .zhong-shen-canada {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 21px;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2889px;
+  width: 416px;
+}
+
+.our-team .overlap-3 {
+  height: 68px;
+  left: 448px;
+  position: absolute;
+  top: 2891px;
+  width: 997px;
+}
+
+.our-team .text-wrapper-7 {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 509px;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 488px;
+}
+
+.our-team .text-wrapper-8 {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 517px;
+}
+
+.our-team .overlap-4 {
+  height: 74px;
+  left: 12px;
+  position: absolute;
+  top: 3033px;
+  width: 1275px;
+}
+
+.our-team .text-wrapper-9 {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 782px;
+}
+
+.our-team .text-wrapper-10 {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 764px;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 511px;
+}
+
+.our-team .overlap-5 {
+  height: 74px;
+  left: -13px;
+  position: absolute;
+  top: 3107px;
+  width: 1376px;
+}
+
+.our-team .text-wrapper-11 {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 511px;
+}
+
+.our-team .text-wrapper-12 {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 865px;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 511px;
+}
+
+.our-team .text-wrapper-13 {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 416px;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 511px;
+}
+
+.our-team .overlap-6 {
+  height: 68px;
+  left: 12px;
+  position: absolute;
+  top: 2961px;
+  width: 1419px;
+}
+
+.our-team .text-wrapper-14 {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 488px;
+}
+
+.our-team .text-wrapper-15 {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 469px;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 488px;
+}
+
+.our-team .text-wrapper-16 {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 931px;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 488px;
+}
+
+.our-team .text-wrapper-17 {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 437px;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2821px;
+  width: 447px;
+}
+
+.our-team .text-wrapper-18 {
+  color: #2b2b39;
+  font-family: "Sen", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 884px;
+  letter-spacing: -3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2821px;
+  width: 447px;
+}
+
+.our-team .header-menu {
+  background-color: #ffffff;
+  height: 70px;
+  left: -2px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.our-team .overlap-7 {
+  background-color: #ffffff;
+  height: 70px;
+  position: relative;
+}
+
+.our-team .group {
+  height: 17px;
+  left: 324px;
+  position: absolute;
+  top: 26px;
+  width: 519px;
+}
+
+.our-team .text-wrapper-19 {
+  color: #002e25;
+  display: block;
+  font-family: "Sen", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.5px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.our-team .text-wrapper-20 {
+  color: #002e25;
+  display: block;
+  font-family: "Sen", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 116px;
+  letter-spacing: -0.5px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.our-team .text-wrapper-21 {
+  color: #002e25;
+  display: block;
+  font-family: "Sen", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 306px;
+  letter-spacing: -0.5px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.our-team .group-2 {
+  display: block;
+  height: 36px;
+  left: 1218px;
+  position: absolute;
+  top: 17px;
+  width: 210px;
+}
+
+.our-team .div-wrapper {
+  background-color: #396c61;
+  border-radius: 0px 8px 8px 0px;
+  height: 36px;
+  left: 103px;
+  position: absolute;
+  top: 0;
+  width: 103px;
+}
+
+.our-team .text-wrapper-22 {
+  color: #fffcf7;
+  font-family: "Sen", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 31px;
+  letter-spacing: -0.5px;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+}
+
+.our-team .overlap-group-2 {
+  background-color: #578f7f;
+  border-radius: 8px 0px 0px 8px;
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 103px;
+}
+
+.our-team .rectangle-2 {
+  background-color: #396c61;
+  height: 1px;
+  left: 852px;
+  position: absolute;
+  top: 44px;
+  width: 60px;
+}
+
+.our-team .text-wrapper-23 {
+  color: #002e25;
+  font-family: "Sen", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 850px;
+  letter-spacing: -0.5px;
+  line-height: normal;
+  position: absolute;
+  top: 25px;
+}
+
+.our-team .raregen {
+  height: 53px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 182px;
+}
+
+.our-team .img {
+  height: 412px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 1778px;
+  width: 345px;
+}
+
+.our-team .image-2 {
+  height: 412px;
+  left: 883px;
+  position: absolute;
+  top: 1778px;
+  width: 370px;
+}
+
+.our-team .footer {
+  background-color: #22130c;
+  height: 99px;
+  left: 0;
+  position: absolute;
+  top: 3207px;
+  width: 1453px;
+}
