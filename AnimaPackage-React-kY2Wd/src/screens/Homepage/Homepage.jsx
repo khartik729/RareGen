@@ -7,7 +7,7 @@ export const Homepage = () => {
     <div className="homepage">
       <div className="div-2">
         <div className="frame-wrapper">
-          <img className="frame" alt="Frame" src="/img/frame.svg" />
+          <img className="frame" alt="Frame" src="/static/img/frame.svg" />
         </div>
         <p className="text-wrapper-24">
           We’re mobilizing individuals aged 12-19 to take action, fostering Rare Disease Consciousness
